@@ -1,1 +1,1 @@
-This project is done for comnination of cppe coverages
+This project is done for combining the cppe coverages
